@@ -1,0 +1,10 @@
+{
+	"idle_anim": "GF Dancing Beat",
+	"image": "GruntGF",
+	"position": [
+		90,
+		-10
+	],
+	"scale": 0.9,
+	"confirm_anim": "M Dad Idle"
+}
