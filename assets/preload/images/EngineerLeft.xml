@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EngineerLeft.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EngineerLeft0000" x="0" y="0" width="510" height="456" frameX="-7" frameY="-27" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0001" x="510" y="0" width="509" height="454" frameX="-9" frameY="-30" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0002" x="510" y="0" width="509" height="454" frameX="-9" frameY="-30" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0003" x="1019" y="0" width="506" height="458" frameX="-11" frameY="-28" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0004" x="1525" y="0" width="507" height="455" frameX="-11" frameY="-25" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0005" x="0" y="458" width="511" height="464" frameX="-8" frameY="-16" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0006" x="0" y="458" width="511" height="464" frameX="-8" frameY="-16" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0007" x="511" y="458" width="513" height="469" frameX="-3" frameY="-11" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0008" x="1024" y="458" width="516" height="473" frameX="-1" frameY="-7" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0009" x="0" y="931" width="517" height="478" frameX="0" frameY="-2" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0010" x="0" y="931" width="517" height="478" frameX="0" frameY="-2" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0011" x="517" y="931" width="518" height="480" frameX="0" frameY="0" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0012" x="517" y="931" width="518" height="480" frameX="0" frameY="0" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0013" x="517" y="931" width="518" height="480" frameX="0" frameY="0" frameWidth="519" frameHeight="486"/>
+	<SubTexture name="EngineerLeft0014" x="517" y="931" width="518" height="480" frameX="0" frameY="0" frameWidth="519" frameHeight="486"/>
+</TextureAtlas>

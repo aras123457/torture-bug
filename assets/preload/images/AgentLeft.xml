@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AgentLeft.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AgentLeft0000" x="0" y="0" width="651" height="487" frameX="-25" frameY="-29" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0001" x="651" y="0" width="645" height="484" frameX="-31" frameY="-31" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0002" x="651" y="0" width="645" height="484" frameX="-31" frameY="-31" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0003" x="1296" y="0" width="641" height="487" frameX="-29" frameY="-28" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0004" x="0" y="487" width="648" height="489" frameX="-18" frameY="-26" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0005" x="648" y="487" width="651" height="494" frameX="-12" frameY="-21" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0006" x="648" y="487" width="651" height="494" frameX="-12" frameY="-21" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0007" x="1299" y="487" width="654" height="498" frameX="-9" frameY="-16" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0008" x="0" y="985" width="654" height="506" frameX="-8" frameY="-8" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0009" x="654" y="985" width="659" height="512" frameX="-1" frameY="-3" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0010" x="1313" y="985" width="660" height="515" frameX="0" frameY="0" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0011" x="0" y="1500" width="660" height="515" frameX="-1" frameY="0" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0012" x="0" y="1500" width="660" height="515" frameX="-1" frameY="0" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0013" x="0" y="1500" width="660" height="515" frameX="-1" frameY="0" frameWidth="676" frameHeight="516"/>
+	<SubTexture name="AgentLeft0014" x="0" y="1500" width="660" height="515" frameX="-1" frameY="0" frameWidth="676" frameHeight="516"/>
+</TextureAtlas>

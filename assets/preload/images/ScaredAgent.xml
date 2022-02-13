@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScaredAgent.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ishittedmypants0000" x="0" y="0" width="613" height="510" frameX="-3" frameY="-2" frameWidth="616" frameHeight="512"/>
+	<SubTexture name="ishittedmypants0001" x="613" y="0" width="610" height="509" frameX="-3" frameY="-3" frameWidth="616" frameHeight="512"/>
+	<SubTexture name="ishittedmypants0002" x="1223" y="0" width="615" height="512" frameX="0" frameY="0" frameWidth="616" frameHeight="512"/>
+	<SubTexture name="ishittedmypants0003" x="0" y="512" width="608" height="512" frameX="-5" frameY="0" frameWidth="616" frameHeight="512"/>
+</TextureAtlas>
