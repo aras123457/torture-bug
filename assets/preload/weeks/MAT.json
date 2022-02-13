@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"Agency",
+			"icongridtricky",
+			[
+				115,
+				0,
+				253
+			]
+		],
+		[
+			"consternation",
+			"icongridtricky2",
+			[
+				255,
+				40,
+				80
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"gruntgfmenu",
+		"bf",
+		""
+	],
+	"storyName": "When totur is sus",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

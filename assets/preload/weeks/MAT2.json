@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+          "Torture", 
+          "agenticons", 
+          [
+            146, 
+            113, 
+            253
+	      ]
+	  ]
+  ],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "mag-agent",
+
+	"storyName": "somewhere in nevada",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
